@@ -1,0 +1,40 @@
+.card {
+    position:fixed;
+    height:550px;
+    width: 24%;
+}
+.sidebar_overflow {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding-top: 5px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height:430px
+}
+.sidebar_overflow_img {
+    padding: 3px 5px;
+    height: 70px;
+}
+.sidebar_overflow_img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+.sidebar_overflow_text {
+    padding: 3px 10px;
+}
+.sidebar_overflow_text h4 {
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0 0 5px 0;
+}
+.sidebar_overflow_text h6 {
+    font-size: 0.8em;
+    margin: 0 0 5px 0;
+}
+.list-group-item {
+    padding: 3px 10px;
+    border: 0;
+}
+
+
